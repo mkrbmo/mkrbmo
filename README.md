@@ -1,6 +1,6 @@
 ### Hey! This is Miles 
-- I like making things and being outside
-- Transitioning from chemistry to development
+- I like making things with my hands and being outside
+- Transitioning from chemistry to software development
 - Currently learning: *python*
 
 <!---
